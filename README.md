@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bahadrlbtn
-- 👀 I’m interested in Python for making game
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R for data analysis.
 - 💞️ I’m looking to teammates.
 - 📫 You can reach me with my mail :)
